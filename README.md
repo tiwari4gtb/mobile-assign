@@ -47,4 +47,12 @@ To learn more about developing your project with Expo, look at the following res
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.|
+
+Two Working Screen has been added-
+
+Images Below
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-07-11 at 22 06 04](https://github.com/tiwari4gtb/mobile-assign/assets/175325897/ef689b63-99ec-49fc-af04-da2895e777df)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-07-11 at 22 06 08](https://github.com/tiwari4gtb/mobile-assign/assets/175325897/c4252c2f-c741-44a9-9391-484e99ca7612)
+
+
